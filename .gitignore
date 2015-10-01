@@ -61,10 +61,5 @@ $RECYCLE.BIN/
 # Eclipse
 #===========================
 
-.classpath
-.project
-proguard-project.txt
-project.properties
-/assets/
 /bin/
 /gen/
